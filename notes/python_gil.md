@@ -28,3 +28,8 @@ So calling the GC is only really necessary if you end up in a space that you've 
 ## why is async needed 
 
 ## 
+
+
+
+
+look into multiprocessing shared_memeory, that's so cool 
